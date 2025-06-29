@@ -1,7 +1,7 @@
 ## Hi there 👋
-This sandbox is establishing, more features will be added soon./n
-（⊙ｏ⊙）/n
-Maybe...(
+This sandbox is establishing, more features will be added soon.
+- （⊙ｏ⊙）
+- Maybe...(
 
 <!--
 **sakuyall/sakuyall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
