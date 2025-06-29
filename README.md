@@ -1,6 +1,6 @@
 ## Hi there 👋
-This sandbox is establishing, more features will be added soon.
-（⊙ｏ⊙）
+This sandbox is establishing, more features will be added soon.\n
+（⊙ｏ⊙）\n
 Maybe...(
 
 <!--
