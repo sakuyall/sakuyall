@@ -1,6 +1,8 @@
 ## Hi there 👋
-This sandbox is establishing, more fatures will be added soon.
+This sandbox is establishing, more features will be added soon.
+（⊙ｏ⊙）
 Maybe...(
+
 <!--
 **sakuyall/sakuyall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
