@@ -13,9 +13,9 @@
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
 
-![Modern C++ template][github-sub-title:img]
+![Python template][github-sub-title:img]
 
-[![modern Pyhton](https://img.shields.io/badge/code-Modern%20C++-blue)](https://docs.python.org/3.10/index.html) 
+[![Pyhton](https://img.shields.io/badge/code-Modern%20C++-blue)](https://docs.python.org/3.10/index.html) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-还行-red) 
 ![](https://img.shields.io/badge/爱好-Touhou-red)
