@@ -29,7 +29,9 @@
 <h2 align="center">Getting started with Python</h2>
 
 <div id="title" align=center>
+  
 ![头像小小](image/头像小小.png )
+
 </div>
 
 <h6 align="center">2022进度-Python入门</h6>
