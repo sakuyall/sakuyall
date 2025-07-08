@@ -11,7 +11,7 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sakuyall&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <div id="title" align=center>
 
