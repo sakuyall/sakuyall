@@ -3,9 +3,11 @@
   <img src="https://profile-counter.glitch.me/sakuyall/count.svg" />
 </p> -->
 
-<h1 align="center">Hi 👋, I'm sakuyall</h1>
+<h1 align="center">Hi 👋, I'm Sakuyall</h1>
 
 <div id="title" align=center>
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=sakuyall.
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
 
@@ -17,8 +19,6 @@
 ![](https://img.shields.io/badge/爱好-Fate-yellow)
 
 ![Visitor Count](https://profile-counter.glitch.me/sakuyall/count.svg)
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=sakuyall.
 
 </div>
 
