@@ -8,7 +8,7 @@
 
 <div id="title" align=center>
 
-![头像](image/头像.jpg)
+![头像](image/头像.jpg width="40" height="40")
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
 
