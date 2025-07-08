@@ -3,6 +3,8 @@
   <img src="https://profile-counter.glitch.me/sakuyall/count.svg" />
 </p> -->
 
+<h1 align="center">Hi 👋, I'm sakuyall</h1>
+
 <div id="title" align=center>
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
@@ -20,7 +22,6 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm sakuyall</h1>
 <h3 align="center">Getting started with Python</h3>
 
 <div id="title" align=center>
