@@ -8,7 +8,7 @@
 
 <div id="title" align=center>
 
-![头像](image/头像.jpg width="40" height="40")
+![头像](image/头像.jpg )
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
 
@@ -16,8 +16,8 @@
 
 [![Pyhton](https://img.shields.io/badge/code-Python-blue)](https://docs.python.org/3.10/index.html) 
 ![](https://img.shields.io/badge/讨厌-枯燥的事情-green) 
-![](https://img.shields.io/badge/性格-还行-red) 
-![](https://img.shields.io/badge/爱好-Touhou-yellow)
+![](https://img.shields.io/badge/性格-阴暗的爬行-red) 
+![](https://img.shields.io/badge/爱好-Fate-yellow)
 
 ![Visitor Count](https://profile-counter.glitch.me/sakuyall/count.svg)
 
