@@ -14,9 +14,9 @@
 ![Python template][github-sub-title:img]
 
 [![Pyhton](https://img.shields.io/badge/code-Python-blue)](https://docs.python.org/3.10/index.html) 
-![](https://img.shields.io/badge/讨厌-枯燥的事情-green) 
-![](https://img.shields.io/badge/性格-阴暗的爬行-red) 
-![](https://img.shields.io/badge/爱好-Fate-yellow)
+[![](https://img.shields.io/badge/讨厌-枯燥的事情-green) ](https://xploreqa.ieee.org/)
+[![](https://img.shields.io/badge/性格-点击查看-red) ](https://youtu.be/dQw4w9WgXcQ?si=PyUexa5oUS2YdPkY)
+[![](https://img.shields.io/badge/爱好-Fate-yellow)](https://zh.wikipedia.org/zh-tw/Fate%E7%B3%BB%E5%88%97)
 
 ![Visitor Count](https://profile-counter.glitch.me/sakuyall/count.svg)
 
