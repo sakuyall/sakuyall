@@ -17,7 +17,6 @@
 [![](https://img.shields.io/badge/爱好-Touhou-red)](https://en.wikipedia.org/wiki/Touhou_Project)
 
 ![Python template][github-sub-title:img]
-//![Visitor Count](https://profile-counter.glitch.me/sakuyall/count.svg)
 
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
