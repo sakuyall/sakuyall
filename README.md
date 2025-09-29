@@ -11,6 +11,9 @@
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
 
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+
 ![Python template][github-sub-title:img]
 
 [![Pyhton](https://img.shields.io/badge/code-Python-blue)](https://docs.python.org/3.10/index.html) 
