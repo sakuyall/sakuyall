@@ -18,8 +18,8 @@
 
 ![Python template][github-sub-title:img]
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/sakuyall/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/sakuyall/github-stats-transparent/output/generated/languages.svg)
 
 </div>
 
