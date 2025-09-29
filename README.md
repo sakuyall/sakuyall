@@ -11,14 +11,13 @@
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
 
-![Python template][github-sub-title:img]
-
 [![Pyhton](https://img.shields.io/badge/code-Python-blue)](https://docs.python.org/3.10/index.html) 
 [![](https://img.shields.io/badge/讨厌-枯燥的事情-green) ](https://xploreqa.ieee.org/)
 [![](https://img.shields.io/badge/性格-点击查看-yellow) ](https://youtu.be/dQw4w9WgXcQ?si=PyUexa5oUS2YdPkY)
 [![](https://img.shields.io/badge/爱好-Touhou-red)](https://en.wikipedia.org/wiki/Touhou_Project)
 
-![Visitor Count](https://profile-counter.glitch.me/sakuyall/count.svg)
+![Python template][github-sub-title:img]
+//![Visitor Count](https://profile-counter.glitch.me/sakuyall/count.svg)
 
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
