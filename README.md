@@ -23,7 +23,7 @@
 
 </div>
 
-<h2 align="center">Getting started with Python</h2>
+<h2 align="center">Beginner of Python</h2>
 
 <div id="title" align=center>
   
