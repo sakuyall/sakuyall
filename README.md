@@ -16,7 +16,8 @@
 [![](https://img.shields.io/badge/性格-点击查看-yellow) ](https://youtu.be/dQw4w9WgXcQ?si=PyUexa5oUS2YdPkY)
 [![](https://img.shields.io/badge/爱好-Touhou-red)](https://en.wikipedia.org/wiki/Touhou_Project)
 
-Nowloading...
+[Nowloading...]()
+
 
 ![Python template][github-sub-title:img]
 
