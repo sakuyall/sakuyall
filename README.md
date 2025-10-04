@@ -7,8 +7,6 @@
 
 <div id="title" align=center>
 
-Nowloading...
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉.
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
@@ -17,6 +15,8 @@ Nowloading...
 [![](https://img.shields.io/badge/讨厌-枯燥的事情-green) ](https://xploreqa.ieee.org/)
 [![](https://img.shields.io/badge/性格-点击查看-yellow) ](https://youtu.be/dQw4w9WgXcQ?si=PyUexa5oUS2YdPkY)
 [![](https://img.shields.io/badge/爱好-Touhou-red)](https://en.wikipedia.org/wiki/Touhou_Project)
+
+Nowloading...
 
 ![Python template][github-sub-title:img]
 
