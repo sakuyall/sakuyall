@@ -1,13 +1,13 @@
 <!-- <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sakuyallllllllll/count.svg" />
+  <img src="https://profile-counter.glitch.me/sakuyall/count.svg" />
 </p> -->
 
 <h1 align="center">Hi 👋, I'm Sakuyall</h1>
 
 <div id="title" align=center>
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Sakuyall.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉.
 
 [![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
 
