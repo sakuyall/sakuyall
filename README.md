@@ -9,7 +9,7 @@
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉.
 
-[![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://b23.tv/loading)
+[![Sakuyall's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakuyall&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://cloudgenshin.hoyoverse.com/en-us)
 
 [![Pyhton](https://img.shields.io/badge/code-Python-blue)](https://docs.python.org/3.10/index.html) 
 [![](https://img.shields.io/badge/讨厌-枯燥的事情-green) ](https://xploreqa.ieee.org/)
